@@ -31,3 +31,4 @@ hooks/
 .ssh/
 info/
 phonegap.js
+.gitconfig
